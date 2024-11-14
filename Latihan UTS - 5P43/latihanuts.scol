@@ -1,0 +1,2 @@
+_load "tools/os3dplayer/os3dload.pkg"
+main "Latihan UTS - 5P43/LatihanUTS.xos" "LatihanUTS" "800" "600" 0
